@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\bin\Debug\net8.0\consola_game.exe
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\bin\Debug\net8.0\consola_game.deps.json
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\bin\Debug\net8.0\consola_game.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\bin\Debug\net8.0\consola_game.dll
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\bin\Debug\net8.0\consola_game.pdb
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\obj\Debug\net8.0\consola_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\obj\Debug\net8.0\consola_game.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\obj\Debug\net8.0\consola_game.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\obj\Debug\net8.0\consola_game.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\obj\Debug\net8.0\consola_game.dll
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\obj\Debug\net8.0\refint\consola_game.dll
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\obj\Debug\net8.0\consola_game.pdb
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\obj\Debug\net8.0\consola_game.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\juego ahorcado - trabajo grupal\consola_game\obj\Debug\net8.0\ref\consola_game.dll
