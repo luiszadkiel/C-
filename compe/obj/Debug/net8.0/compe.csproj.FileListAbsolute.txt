@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\bin\Debug\net8.0\compe.exe
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\bin\Debug\net8.0\compe.deps.json
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\bin\Debug\net8.0\compe.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\bin\Debug\net8.0\compe.dll
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\bin\Debug\net8.0\compe.pdb
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\obj\Debug\net8.0\compe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\obj\Debug\net8.0\compe.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\obj\Debug\net8.0\compe.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\obj\Debug\net8.0\compe.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\obj\Debug\net8.0\compe.dll
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\obj\Debug\net8.0\refint\compe.dll
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\obj\Debug\net8.0\compe.pdb
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\obj\Debug\net8.0\compe.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\fundamento de programacion\competencia\compe\obj\Debug\net8.0\ref\compe.dll
